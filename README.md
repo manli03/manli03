@@ -34,7 +34,7 @@ My biggest strength is the ability to **quickly learn new technologies and turn 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aimannorazli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aimanmuhd993@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aimannorazli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.aiman.norazli@gmail.com) 
 
 # 💻 Tech Stack:
 
@@ -82,9 +82,6 @@ My biggest strength is the ability to **quickly learn new technologies and turn 
 ![](https://github-readme-stats.vercel.app/api?username=manli03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manli03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manli03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=manli03&theme=react-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
